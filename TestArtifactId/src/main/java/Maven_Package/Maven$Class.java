@@ -5,7 +5,7 @@ public class Maven$Class {
 	public static void main(String[] args) {
 		
 		System.out.println("Hello Maven Bro");
-		System.out.println("Hello Avinash");
+		
 
 	}
 
